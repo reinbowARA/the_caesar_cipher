@@ -1,0 +1,16 @@
+C:\Users\romaa\Documents\programm\the_caesar_cipher\bin\Debug\net5.0\the_caesar_cipher.exe
+C:\Users\romaa\Documents\programm\the_caesar_cipher\bin\Debug\net5.0\the_caesar_cipher.deps.json
+C:\Users\romaa\Documents\programm\the_caesar_cipher\bin\Debug\net5.0\the_caesar_cipher.runtimeconfig.json
+C:\Users\romaa\Documents\programm\the_caesar_cipher\bin\Debug\net5.0\the_caesar_cipher.runtimeconfig.dev.json
+C:\Users\romaa\Documents\programm\the_caesar_cipher\bin\Debug\net5.0\the_caesar_cipher.dll
+C:\Users\romaa\Documents\programm\the_caesar_cipher\bin\Debug\net5.0\ref\the_caesar_cipher.dll
+C:\Users\romaa\Documents\programm\the_caesar_cipher\bin\Debug\net5.0\the_caesar_cipher.pdb
+C:\Users\romaa\Documents\programm\the_caesar_cipher\obj\Debug\net5.0\the_caesar_cipher.csproj.AssemblyReference.cache
+C:\Users\romaa\Documents\programm\the_caesar_cipher\obj\Debug\net5.0\the_caesar_cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romaa\Documents\programm\the_caesar_cipher\obj\Debug\net5.0\the_caesar_cipher.AssemblyInfoInputs.cache
+C:\Users\romaa\Documents\programm\the_caesar_cipher\obj\Debug\net5.0\the_caesar_cipher.AssemblyInfo.cs
+C:\Users\romaa\Documents\programm\the_caesar_cipher\obj\Debug\net5.0\the_caesar_cipher.csproj.CoreCompileInputs.cache
+C:\Users\romaa\Documents\programm\the_caesar_cipher\obj\Debug\net5.0\the_caesar_cipher.dll
+C:\Users\romaa\Documents\programm\the_caesar_cipher\obj\Debug\net5.0\ref\the_caesar_cipher.dll
+C:\Users\romaa\Documents\programm\the_caesar_cipher\obj\Debug\net5.0\the_caesar_cipher.pdb
+C:\Users\romaa\Documents\programm\the_caesar_cipher\obj\Debug\net5.0\the_caesar_cipher.genruntimeconfig.cache
