@@ -2,7 +2,7 @@
 
 Шифр Цезаря строится на смещении алфавита, т.е. у нас есть у нас есть слово "Zebra" ,то смещая алфавит на 1 букву то получим "Afcsb" 
 
-(http://old.msun.ru/Vector/Klub-IGRA/Zezap%20Vinedg.files/image002.jpg)
+[Шифр цезаря](http://old.msun.ru/Vector/Klub-IGRA/Zezap%20Vinedg.files/image002.jpg)
 
 На математическом языке это будет выглядить так:
 
